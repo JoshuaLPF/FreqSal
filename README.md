@@ -1,18 +1,16 @@
 # DFENet
 
-Brief description or introduction of the project.
+（Brief description of the project）
 
-## Table of Contents
+## Requirements
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+List of prerequisites or required libraries for the project to run:
 
-## Installation
+- Pytorch 2.0.0
+- Cuda 11.8
+- Python 3.8 or higher
+- tensorboardX
+- opencv
+- timm == 0.5.4
 
-Provide instructions on how to install and set up the project. Include any dependencies that need to be installed and steps to get the project running.
 
-```bash
-# Example installation commands
-npm install
