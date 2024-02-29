@@ -13,9 +13,15 @@ List of prerequisites or required libraries for the project to run:
 - opencv
 - timm == 0.5.4
 
+## Datasets
+
 ## Pertrain Models
 
-|  | Backbone | Link |
-|----------|----------|----------|
-| DFENet-m   | Data 2   | Data 3   |
-| DFENet-b   | Data 5   | Data 6   |
+|          |Params (M)| FLOPs (G)|Backbone | Link |
+|----------|----------|----------|---------|------|
+| DFENet-m | 149.2    |  139.7   |         |      |
+| DFENet-b | 264.6    |  238.0   |         |      |
+
+## Results
+
+## Acknowledgements
