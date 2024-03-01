@@ -19,11 +19,11 @@ List of prerequisites or required libraries for the project to run:
 
 ## Pertrain Models
 
-|          |Params (M)| FLOPs (G)| Input size |Backbone | Link |
-|----------|----------|----------|------------|---------|------|
-| DFENet-m | 149.2    |  139.7   |  384x384   |         |      |
-| DFENet-b | 264.6    |  238.0   |  384x384   |         |      |
-| DFENet-h | 149.8    |  248.3   |  512x512   |         |      |
+|          |Params(M)| FLOPs(G)| Input size |Backbone | Link |
+|----------|---------|---------|------------|---------|------|
+| DFENet-m | 149.2   |  139.7  |  384x384   |         |      |
+| DFENet-b | 264.6   |  238.0  |  384x384   |         |      |
+| DFENet-h | 149.8   |  248.3  |  512x512   |         |      |
 
 ## Results
 
