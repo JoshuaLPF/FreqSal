@@ -10,8 +10,10 @@ List of prerequisites or required libraries for the project to run:
 - Cuda 11.8
 - Python 3.8 or higher
 - tensorboardX
-- opencv
+- opencv-python
 - timm == 0.5.4
+- thop
+- numpy
 
 ## Datasets
 
