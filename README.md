@@ -21,6 +21,7 @@ List of prerequisites or required libraries for the project to run:
 |----------|----------|----------|---------|------|
 | DFENet-m | 149.2    |  139.7   |         |      |
 | DFENet-b | 264.6    |  238.0   |         |      |
+| DFENet-h | 149.8    |  248.3   |         |      |
 
 ## Results
 
