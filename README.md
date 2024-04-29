@@ -1,6 +1,6 @@
 # DFENet
 
-（Brief description of the project）
+The code is coming soon.
 
 ## Requirements
 
