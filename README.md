@@ -22,7 +22,7 @@ List of prerequisites or required libraries for the project to run:
 
 |          |Params(M)| FLOPs(G)| Input size |  Backbone   |      |
 |----------|---------|---------|------------|-------------|------|
-| DFENet-m | 149.2   |  139.7  |  384x384   | CDFFormer-m | [link](链接：https://pan.baidu.com/s/1j_u9YGr-9zwNOJHJ9WCuqQ), fetch code(kbpy) |
+| DFENet-m | 149.2   |  139.7  |  384x384   | CDFFormer-m | [link](https://pan.baidu.com/s/1j_u9YGr-9zwNOJHJ9WCuqQ), fetch code(kbpy) |
 | DFENet-b | 264.6   |  238.0  |  384x384   | CDFFormer-b |      |
 | DFENet-h | 149.8   |  248.3  |  512x512   | CDFFormer-m |      |
 
