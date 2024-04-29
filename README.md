@@ -20,9 +20,9 @@ List of prerequisites or required libraries for the project to run:
 - VI-RGBT1500: [link](https://github.com/huanglm-me/VI-RGBT1500)
 ## Pertrain Models
 
-|          |Params(M)| FLOPs(G)| Input size |  Backbone   | Link |
+|          |Params(M)| FLOPs(G)| Input size |  Backbone   |      |
 |----------|---------|---------|------------|-------------|------|
-| DFENet-m | 149.2   |  139.7  |  384x384   | CDFFormer-m |      |
+| DFENet-m | 149.2   |  139.7  |  384x384   | CDFFormer-m | [link](链接：https://pan.baidu.com/s/1j_u9YGr-9zwNOJHJ9WCuqQ), fetch code(kbpy) |
 | DFENet-b | 264.6   |  238.0  |  384x384   | CDFFormer-b |      |
 | DFENet-h | 149.8   |  248.3  |  512x512   | CDFFormer-m |      |
 
