@@ -1,5 +1,5 @@
 # DFENet
-- The code is coming soon.
+- The paper is undergoing peer review at IEEE TMM. The code will be released upon acceptance of the paper.
 - In this project, we rethink the acquisition of long-range dependencies in bi-modal salient object detection (BSOD). Inspired by the efficient global representation of fast Fourier transform (FFT), we propose the deep Fourier-embedded network (DFENet), a purely FFT-based model aimed at achieving global relationship alignment in each stage while minimizing memory consumption and complexity, outperforming existing state-of-the-art (SOTA) BSOD models on four RGB-T BSOD benchmark datasets. **To the best of our knowledge, this is the first Fourier-based supervised model in a series of salient object detection tasks.**
 
 ## Requirements
