@@ -35,7 +35,7 @@ The results of our DFENets (-m, -h, and -b) can be found at [link](https://pan.b
 - The Evaluation Metrics Toolbox is available here: [link](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox).
 
 ## Acknowledgements
-- Thanks to all the seniors who put in the effort.
+- Thanks to all the seniors and projects (*e.g.*, [DFFormer](https://github.com/okojoalg/dfformer), [FFL](https://github.com/EndlessSora/focal-frequency-loss), [UHDFour](https://li-chongyi.github.io/UHDFour/), [MGAI](https://github.com/huanglm-me/VI-RGBT1500), and [SwinNet](https://github.com/okojoalg/dfformer)).
 
 ## Contact Us
 If you have any questions, please contact us ( lvpengfei1995@163.com ).
