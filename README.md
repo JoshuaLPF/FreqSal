@@ -2,7 +2,7 @@
 ## Deep Fourier-embedded Network for Bi-modal Salient Object Detection
 - **April 29, 2024**  
   The paper is undergoing peer review. The code will be released upon acceptance of the paper.
-- In this project, we propose the deep Fourier-embedded network (DFENet), a purely Fourier-based model aimed at solving the high-resolution bi-modal inputs and features while minimizing memory consumption of GPU, outperforming existing state-of-the-art (SOTA) BSOD models on four RGB-T BSOD benchmark datasets. **To the best of our knowledge, this is the first Fourier-based supervised model in a series of salient object detection tasks.**
+- In this project, we proposed the deep Fourier-embedded network (DFENet), a purely Fourier-based model aimed at solving the high-resolution bi-modal inputs and features while minimizing memory consumption of GPU, outperforming existing state-of-the-art bi-modal salient object detection (BSOD) models on four RGB-T BSOD benchmark datasets. **To the best of our knowledge, this is the first Fourier-based supervised model in a series of salient object detection tasks.**
 
 ## Requirements
 
