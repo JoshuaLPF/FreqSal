@@ -23,7 +23,7 @@ List of prerequisites or required libraries for the project to run:
  
 ## Per-trained Weights
 
-|          |Params(M)| FLOPs(G)| Input size | Pertrained Weights of Backbone | Pertrained Weights of DFENets |
+|          |Params(M)| FLOPs(G)| Input size | Backbones | DFENets |
 |----------|---------|---------|------------|-------------|------|
 | DFENet-m | 149.2   |  139.7  |  384x384   | [CDFFormer-m36](https://github.com/okojoalg/dfformer) | [link](https://pan.baidu.com/s/1j_u9YGr-9zwNOJHJ9WCuqQ), fetch code(kbpy) |
 | DFENet-b | 264.6   |  238.0  |  384x384   | [CDFFormer-b36](https://github.com/okojoalg/dfformer) | [link](https://pan.baidu.com/s/1S23SqxzzsNj-39nkaxb7xA), fetch code(eysg) |
