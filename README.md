@@ -19,8 +19,8 @@ List of prerequisites or required libraries for the project to run:
 - numpy
 
 ## Datasets
-- VT821, VT1000, VT5000: Baidu cloud disk [link](https://pan.baidu.com/s/1Vv6mYz4RL2VnwWwZWKLHyA), fetch code (djas); 
-- VI-RGBT1500: [link](https://github.com/huanglm-me/VI-RGBT1500)
+- We conducted experiments to evaluate our DFENet on the [VT821, VT1000, VT5000](https://github.com/lz118/RGBT-Salient-Object-Detection), and [VI-RGBT1500](https://github.com/huanglm-me/VI-RGBT1500) datasets. Please click for the corresponding dataset.
+- 
 ## Pertrain Models
 
 |          |Params(M)| FLOPs(G)| Input size |  Backbone   |      |
