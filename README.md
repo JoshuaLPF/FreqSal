@@ -37,7 +37,8 @@ List of prerequisites or required libraries for the project to run:
  512 x 512 | [CDFFormer-m36](https://github.com/okojoalg/dfformer/releases/download/weights/cdfformer_m36.pth) | [Link]()
 
 ## Results
-The results of our DFENet can be found at [link](https://pan.baidu.com/s/17tDPotfrEiQ8TSkf9LVdBw?pwd=up6m).
+- The results of our DFENet can be found at [link](https://pan.baidu.com/s/17tDPotfrEiQ8TSkf9LVdBw?pwd=up6m).
+- ![result](https://github.com/JoshuaLPF/DFENet/blob/main/Figure/result.png)
 
 ## Evaluation Metrics Toolbox
 - The Evaluation Metrics Toolbox is available here: [link](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox).
