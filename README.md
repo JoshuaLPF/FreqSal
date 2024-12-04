@@ -29,14 +29,12 @@ List of prerequisites or required libraries for the project to run:
 ## Datasets
 - We conducted experiments to evaluate our DFENet on the [VT821, VT1000, VT5000](https://github.com/lz118/RGBT-Salient-Object-Detection), and [VI-RGBT1500](https://github.com/huanglm-me/VI-RGBT1500) datasets. Please click for the corresponding dataset.
  
-## Pre-trained Weights
+## Pre-trained Weights of DFENet
 
- 表头  | 表头  | 表头
+  Resolution  | Backbone | weights
  ---- | ----- | ------  
- 单元格内容  | 单元格内容 | 单元格内容 
- 单元格内容  | 单元格内容 | 单元格内容  
-
-You can click here to download the pre-trained weights of the [backbone (CDFFormer-m36)](https://github.com/okojoalg/dfformer) and [DFENet](https://pan.baidu.com/s/1j_u9YGr-9zwNOJHJ9WCuqQ) (fetch code: kbpy).
+ 384x384 | [CDFFormer-m36](https://github.com/okojoalg/dfformer/releases/download/weights/cdfformer_m36.pth) | [Link](https://pan.baidu.com/s/1j_u9YGr-9zwNOJHJ9WCuqQ) (fetch code: kbpy)  
+ 512x512 | [CDFFormer-m36](https://github.com/okojoalg/dfformer/releases/download/weights/cdfformer_m36.pth) | [Link](https://pan.baidu.com/s/1j_u9YGr-9zwNOJHJ9WCuqQ) (fetch code: kbpy)  
 
 ## Results
 The results of our DFENet can be found at [link](https://pan.baidu.com/s/19aWbiGBD6AqWrP0e_PwYWw), fetch code(1ryz).
