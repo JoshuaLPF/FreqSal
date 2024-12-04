@@ -42,4 +42,4 @@ The results of our DFENet can be found at [link](https://pan.baidu.com/s/19aWbiG
 - Thanks to all the seniors and projects (*e.g.*, [DFFormer](https://github.com/okojoalg/dfformer), [FFL](https://github.com/EndlessSora/focal-frequency-loss), [UHDFour](https://li-chongyi.github.io/UHDFour/), [MGAI](https://github.com/huanglm-me/VI-RGBT1500), and [SwinNet](https://github.com/okojoalg/dfformer)).
 
 ## Contact Us
-If you have any questions, please contact us ( lvpengfei1995@163.com ).
+If you have any questions, please contact us (lvpengfei1995@163.com).
