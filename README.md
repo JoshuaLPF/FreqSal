@@ -33,8 +33,8 @@ List of prerequisites or required libraries for the project to run:
 
   Resolution  | Backbone | weights
  ---- | ----- | ------  
- 384x384 | [CDFFormer-m36](https://github.com/okojoalg/dfformer/releases/download/weights/cdfformer_m36.pth) | [Link]() 
- 512x512 | [CDFFormer-m36](https://github.com/okojoalg/dfformer/releases/download/weights/cdfformer_m36.pth) | [Link]()
+ 384 x 384 | [CDFFormer-m36](https://github.com/okojoalg/dfformer/releases/download/weights/cdfformer_m36.pth) | [Link](https://pan.baidu.com/s/1rminKzFj_sjxRcSqwV5mdw?pwd=iu73) 
+ 512 x 512 | [CDFFormer-m36](https://github.com/okojoalg/dfformer/releases/download/weights/cdfformer_m36.pth) | [Link]()
 
 ## Results
 The results of our DFENet can be found at [link](https://pan.baidu.com/s/17tDPotfrEiQ8TSkf9LVdBw?pwd=up6m).
