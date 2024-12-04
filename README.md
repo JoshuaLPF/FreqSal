@@ -31,10 +31,10 @@ List of prerequisites or required libraries for the project to run:
  
 ## Pre-trained Weights
 
-   | 列1   | 列2   | 列3   |
-   | —– | —– | —– |
-   | 内容1 | 内容2 | 内容3 |
-   | 内容4 | 内容5 | 内容6 |
+ 表头  | 表头  | 表头
+ ---- | ----- | ------  
+ 单元格内容  | 单元格内容 | 单元格内容 
+ 单元格内容  | 单元格内容 | 单元格内容  
 
 You can click here to download the pre-trained weights of the [backbone (CDFFormer-m36)](https://github.com/okojoalg/dfformer) and [DFENet](https://pan.baidu.com/s/1j_u9YGr-9zwNOJHJ9WCuqQ) (fetch code: kbpy).
 
