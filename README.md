@@ -1,5 +1,5 @@
 # DFENet
-## Deep Fourier-embedded Network for Bi-modal Salient Object Detection [[paper (an initial version)]](https://arxiv.org/abs/2411.18409)
+## Deep Fourier-embedded Network for Bi-modal Salient Object Detection [[paper]](https://arxiv.org/abs/2411.18409) 
 - **April 29, 2024**  
   The paper is undergoing peer review. The code will be released upon acceptance of the paper.
 - ![Framework](https://github.com/JoshuaLPF/DFENet/blob/main/Figure/framework.png)
@@ -7,8 +7,8 @@
 - Please cite our paper if you find it useful for your research.
 ```
 @article{lyu2024deep,
-  title={Deep Fourier-embedded Network for Bi-modal Salient Object Detection},
-  author={Lyu, Pengfei and Yu, Xiaosheng and Wu, Chengdong and Rajapakse, Jagath C},
+  title={Deep Fourier-embedded Network for RGB and Thermal Salient Object Detection},
+  author={Lyu, Pengfei and Yeung, Pak-Hei and Yu, Xiaosheng and Wu, Chengdong and Rajapakse, Jagath C},
   journal={arXiv preprint arXiv:2411.18409},
   year={2024}
 }
