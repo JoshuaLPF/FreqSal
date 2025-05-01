@@ -1,9 +1,9 @@
-# FreSal
+# FreqSal
 ## Deep Fourier-embedded Network for RGB and Thermal Salient Object Detection [[paper]](https://arxiv.org/abs/2411.18409) 
 - **April 29, 2024**  
   The paper is undergoing peer review. The code will be released upon acceptance of the paper.
 - ![Framework](https://github.com/JoshuaLPF/DFENet/blob/main/Figure/framework.png)
-- In this project, we proposed the deep Fourier-embedded network, namely FreSal, a purely Fourier-based model aimed at solving the high-resolution bi-modal inputs and feature fusion while minimizing memory consumption of GPU, outperforming existing state-of-the-art bi-modal salient object detection (BSOD) models on four RGB-T BSOD benchmark datasets. **To the best of our knowledge, this is the first Fourier-based supervised model in a series of salient object detection tasks.**
+- In this project, we proposed the deep Fourier-embedded network, namely FreqSal, a purely Fourier-based model aimed at solving the high-resolution bi-modal inputs and feature fusion while minimizing memory consumption of GPU, outperforming existing state-of-the-art bi-modal salient object detection (BSOD) models on four RGB-T BSOD benchmark datasets. **To the best of our knowledge, this is the first Fourier-based supervised model in a series of salient object detection tasks.**
 - Please cite our paper if you find it useful for your research.
 ```
 @article{lyu2024deep,
@@ -29,7 +29,7 @@ List of prerequisites or required libraries for the project to run:
 ## Datasets
 - We conducted experiments to evaluate our model on the [VT821, VT1000, VT5000](https://github.com/lz118/RGBT-Salient-Object-Detection), and [VI-RGBT1500](https://github.com/huanglm-me/VI-RGBT1500) datasets. Please click for the corresponding dataset.
  
-## Pre-trained Weights of DFENet
+## Pre-trained Weights of FreqSal
 
   Resolution  | Backbone | weights
  ---- | ----- | ------  
