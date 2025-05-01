@@ -1,4 +1,4 @@
-# DFENet
+# FreSal
 ## Deep Fourier-embedded Network for RGB and Thermal Salient Object Detection [[paper]](https://arxiv.org/abs/2411.18409) 
 - **April 29, 2024**  
   The paper is undergoing peer review. The code will be released upon acceptance of the paper.
