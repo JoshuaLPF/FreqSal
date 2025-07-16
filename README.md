@@ -2,7 +2,7 @@
 ## Deep Fourier-embedded Network for RGB and Thermal Salient Object Detection [[paper]](https://arxiv.org/abs/2411.18409) 
 - **April 29, 2024**  
   The paper is undergoing peer review. The code will be released upon acceptance of the paper.
-- ![Framework](https://github.com/JoshuaLPF/DFENet/blob/main/Figure/framework.png)
+- ![Framework]()
 - In this project, we proposed the deep Fourier-embedded network, namely FreqSal, a purely Fourier-based model aimed at solving the high-resolution bi-modal inputs and feature fusion while minimizing memory consumption of GPU, outperforming existing state-of-the-art bi-modal salient object detection (BSOD) models on four RGB-T BSOD benchmark datasets. **To the best of our knowledge, this is the first Fourier-based supervised model in a series of salient object detection tasks.**
 - Please cite our paper if you find it useful for your research.
 ```
@@ -40,7 +40,7 @@ List of prerequisites or required libraries for the project to run:
 
 ## Results
 - The RGB-T and RGB-D results of our model can be found at [link](https://pan.baidu.com/s/1tJMnR8cF_xH3i2aDy_662g?pwd=vuj4).
-- ![result](https://github.com/JoshuaLPF/DFENet/blob/main/Figure/result.png)
+- ![result]()
 
 ## Evaluation Metrics Toolbox
 - The Evaluation Metrics Toolbox is available here: [link](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox).
