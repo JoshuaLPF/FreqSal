@@ -32,10 +32,11 @@ List of prerequisites or required libraries for the project to run:
 ## Pre-trained Weights of FreqSal
 
   Resolution  | Backbone | Tpye | weights
- ---- | ----- | ------  
+ ---- | ----- | ------ | ------ 
  384 x 384 | [CDFFormer-m36](https://github.com/okojoalg/dfformer/releases/download/weights/cdfformer_m36.pth) | RGB-T | [Link](https://pan.baidu.com/s/1NMvuPohsT1URkI529G013Q?pwd=umm4) 
  512 x 512 | [CDFFormer-m36](https://github.com/okojoalg/dfformer/releases/download/weights/cdfformer_m36.pth) | RGB-T | [Link]()
  384 x 384 | [CDFFormer-m36](https://github.com/okojoalg/dfformer/releases/download/weights/cdfformer_m36.pth) | RGB-D | [Link]()
+ 
 
 ## Results
 - The RGB-T and RGB-D results of our model can be found at [link](https://pan.baidu.com/s/1tJMnR8cF_xH3i2aDy_662g?pwd=vuj4).
