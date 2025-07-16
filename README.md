@@ -27,17 +27,18 @@ List of prerequisites or required libraries for the project to run:
 - numpy
 
 ## Datasets
-- We conducted experiments to evaluate our model on the [VT821, VT1000, VT5000](https://github.com/lz118/RGBT-Salient-Object-Detection), and [VI-RGBT1500](https://github.com/huanglm-me/VI-RGBT1500) datasets. Please click for the corresponding dataset.
+- We conducted experiments to evaluate our model on the [VT821, VT1000, VT5000](https://github.com/lz118/RGBT-Salient-Object-Detection), and [VI-RGBT1500](https://github.com/huanglm-me/VI-RGBT1500) datasets for the RGB-T SOD task, and on the [NLPR, NJUD, DUT-RGBD, SIP, and STERE](https://github.com/jiwei0921/RGBD-SOD-datasets) datasets for the RGB-D SOD task. Please click for the corresponding dataset.
  
 ## Pre-trained Weights of FreqSal
 
-  Resolution  | Backbone | weights
+  Resolution  | Backbone | Tpye | weights
  ---- | ----- | ------  
- 384 x 384 | [CDFFormer-m36](https://github.com/okojoalg/dfformer/releases/download/weights/cdfformer_m36.pth) | [Link](https://pan.baidu.com/s/1rminKzFj_sjxRcSqwV5mdw?pwd=iu73) 
- 512 x 512 | [CDFFormer-m36](https://github.com/okojoalg/dfformer/releases/download/weights/cdfformer_m36.pth) | [Link]()
+ 384 x 384 | [CDFFormer-m36](https://github.com/okojoalg/dfformer/releases/download/weights/cdfformer_m36.pth) | RGB-T | [Link](https://pan.baidu.com/s/1NMvuPohsT1URkI529G013Q?pwd=umm4) 
+ 512 x 512 | [CDFFormer-m36](https://github.com/okojoalg/dfformer/releases/download/weights/cdfformer_m36.pth) | RGB-T | [Link]()
+ 384 x 384 | [CDFFormer-m36](https://github.com/okojoalg/dfformer/releases/download/weights/cdfformer_m36.pth) | RGB-D | [Link]()
 
 ## Results
-- The results of our model can be found at [link](https://pan.baidu.com/s/17tDPotfrEiQ8TSkf9LVdBw?pwd=up6m).
+- The RGB-T and RGB-D results of our model can be found at [link](https://pan.baidu.com/s/1tJMnR8cF_xH3i2aDy_662g?pwd=vuj4).
 - ![result](https://github.com/JoshuaLPF/DFENet/blob/main/Figure/result.png)
 
 ## Evaluation Metrics Toolbox
