@@ -4,7 +4,7 @@
   The paper has been accepted by TCSVT2025
 - **Apr. 29, 2024**  
   The paper is undergoing peer review. The code will be released upon acceptance of the paper.
-- ![Framework](https://github.com/JoshuaLPF/FreqSal/Figure/framework.png)
+- ![Framework](https://github.com/JoshuaLPF/FreqSal/blob/main/Figure/framework.png)
 - In this project, we proposed the deep Fourier-embedded network, namely FreqSal, a purely Fourier-based model aimed at solving the high-resolution bimodal inputs and feature fusion while minimizing memory consumption of GPU, outperforming existing state-of-the-art bimodal salient object detection (SOD) models on four RGB-T, five RGB-D, and one RGB-D-T SOD benchmark datasets. **To the best of our knowledge, this is the first Fourier-based supervised model in a series of SOD tasks.**
 - Please cite our paper if you find it useful for your research.
 ```
