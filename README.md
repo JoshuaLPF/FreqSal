@@ -42,7 +42,8 @@ List of prerequisites or required libraries for the project to run:
 
 ## Results
 - The RGB-T and RGB-D results of our model can be found at [link](https://pan.baidu.com/s/1tJMnR8cF_xH3i2aDy_662g?pwd=vuj4).
-- ![result]()
+- ![RGB-T results](https://github.com/JoshuaLPF/FreqSal/blob/main/Figure/RGBT.png)
+- ![RGB-D results](https://github.com/JoshuaLPF/FreqSal/blob/main/Figure/RGBD.png)
 
 ## Evaluation Metrics Toolbox
 - The Evaluation Metrics Toolbox is available here: [link](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox).
