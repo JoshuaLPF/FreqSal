@@ -1,5 +1,5 @@
 # FreqSal
-## Deep Fourier-embedded Network for RGB and Thermal Salient Object Detection [[IEEE]]()[[arXiv]](https://arxiv.org/abs/2411.18409) 
+## Deep Fourier-embedded Network for RGB and Thermal Salient Object Detection [[IEEE]](https://ieeexplore.ieee.org/document/11230613)[[arXiv]](https://arxiv.org/abs/2411.18409) 
 - **Nov. 4, 2025**  
   The paper has been accepted by TCSVT2025
 - **Apr. 29, 2024**  
