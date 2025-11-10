@@ -10,7 +10,7 @@
 ```
 @article{lyu2024deep,
   title={Deep Fourier-embedded Network for RGB and Thermal Salient Object Detection},
-  author={Lyu, Pengfei and Yeung, Pak-Hei and Yu, Xiaosheng and Wu, Chengdong and Rajapakse, Jagath C},
+  author={Lyu, Pengfei and Yu, Xiaosheng and Yeung, Pak-Hei and Wu, Chengdong and Rajapakse, Jagath C},
   journal={arXiv preprint arXiv:2411.18409},
   year={2024}
 }
